@@ -1,0 +1,13 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+
+# Media Uploads (Keep the repository lightweight)
+data/media/
+
+# OS generated files
+.DS_Store
